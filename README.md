@@ -28,3 +28,7 @@ Contributing
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+Author
+Name: Andras Farkas
+Email: farkas.andras.2007@gmail.com
